@@ -1,0 +1,25 @@
+2017-11-08 13:05:31.6276 [DEBUG] Authenticating with server...
+2017-11-08 13:05:31.9939 [DEBUG] Connected to room. (48583:SceneFusion:SceneFusion)
+2017-11-08 13:05:31.9984 [INFO] Connected to server.
+2017-11-08 13:05:31.9984 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:05:31.9984 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:05:31.9984 [DEBUG] Pro License : False
+2017-11-08 13:05:31.9984 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:05:31.9984 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:05:31.9984 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:05:31.9989 [DEBUG] User : 
+2017-11-08 13:05:32.0269 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:05:32.0274 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:05:32.1360 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:05:32.1360 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:05:32.1360 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:05:32.1360 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:05:32.1360 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:05:32.3867 [DEBUG] Uploading scene 'MainScene'
+2017-11-08 13:05:32.3882 [DEBUG] Spawn request. (Objects: 2)
+2017-11-08 13:08:56.4037 [DEBUG] Refresh token (lRz7AylaThaBLR8Jb2DHzU6ifSFesiy3cbcl3mJAjeLaDtza7fFmShaWeitmepRdsbUallaEx7Gancip33f83mtBMXlAyWk70jfXhFjbD3GmieIBKmahGcmP0KWZpeurMod05L2JTmAwWLygJNdiz45yUYkCtpBxpxmAakjCZqCNIadfoCSzOCbZWmOM1ELo91CIhPPBq56dMtpF1QQp8aWmG4Bt7DrbY7n4QnjbiFMC179Wt35xU2iwNbZW5Xc) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2017-11-08 13:13:26.5288 [DEBUG] Spawn request. (Objects: 1)
+2017-11-08 13:18:47.6756 [DEBUG] Disconnecting temporarily to recompile.
+2017-11-08 13:18:47.6756 [DEBUG] Disconnecting from room (48583:SceneFusion:SceneFusion)
+2017-11-08 13:18:47.6846 [INFO] Disconnected from server.
+2017-11-08 13:18:47.6846 [DEBUG] Disconnect. (Duration: 795)

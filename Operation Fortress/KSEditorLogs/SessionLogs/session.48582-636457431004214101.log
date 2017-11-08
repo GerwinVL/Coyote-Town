@@ -1,0 +1,22 @@
+2017-11-08 13:05:00.8412 [DEBUG] Authenticating with server...
+2017-11-08 13:05:01.2045 [DEBUG] Connected to room. (48582:SceneFusion:SceneFusion)
+2017-11-08 13:05:01.2085 [INFO] Connected to server.
+2017-11-08 13:05:01.2085 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:05:01.2085 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:05:01.2085 [DEBUG] Pro License : False
+2017-11-08 13:05:01.2085 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:05:01.2085 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:05:01.2085 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:05:01.2090 [DEBUG] User : 
+2017-11-08 13:05:01.2285 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:05:01.2285 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:05:01.2295 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:05:01.2300 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:05:01.2300 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:05:01.2300 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:05:01.2300 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:05:01.4882 [DEBUG] Uploading scene 'SecondScene'
+2017-11-08 13:05:01.4902 [DEBUG] Spawn request. (Objects: 2)
+2017-11-08 13:05:04.4434 [DEBUG] Disconnecting from room (48582:SceneFusion:SceneFusion)
+2017-11-08 13:05:04.4449 [INFO] Disconnected from server.
+2017-11-08 13:05:04.4449 [DEBUG] Disconnect. (Duration: -7)

@@ -1,0 +1,12 @@
+2017-11-08 12:46:03.2517 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 12:46:03.2625 [INFO] Setting define symbol SCENE_FUSION
+2017-11-08 12:46:06.1855 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 12:48:18.2445 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 12:59:48.3006 [INFO] Launching Scene: MainScene
+2017-11-08 12:59:48.9527 [DEBUG] Connecting to room (48581:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:04:53.6631 [DEBUG] Sent C:/Users/Gerwin/Documents/GitHub/MatGer/Operation Fortress/KSEditorLogs/SessionLogs/session.48581-636457427889577492.log
+2017-11-08 13:04:59.7892 [INFO] Launching Scene: SecondScene
+2017-11-08 13:05:00.4147 [DEBUG] Connecting to room (48582:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:05:04.4501 [DEBUG] Sent C:/Users/Gerwin/Documents/GitHub/MatGer/Operation Fortress/KSEditorLogs/SessionLogs/session.48582-636457431004214101.log
+2017-11-08 13:05:30.6510 [INFO] Launching Scene: MainScene
+2017-11-08 13:05:31.1971 [DEBUG] Connecting to room (48583:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
