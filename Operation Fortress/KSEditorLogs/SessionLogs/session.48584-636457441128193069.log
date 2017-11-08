@@ -1,0 +1,193 @@
+2017-11-08 13:21:53.2479 [DEBUG] Authenticating with server...
+2017-11-08 13:21:53.6189 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:21:53.6303 [INFO] Connected to server.
+2017-11-08 13:21:53.6303 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:21:53.6303 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:21:53.6303 [DEBUG] Pro License : False
+2017-11-08 13:21:53.6308 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:21:53.6308 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:21:53.6308 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:21:53.6313 [DEBUG] User : 
+2017-11-08 13:21:53.6817 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:21:53.6822 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:21:53.8419 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:21:53.8419 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:21:53.8419 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:21:53.8419 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:21:53.8419 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:21:54.1630 [DEBUG] Uploading scene 'MainScene'
+2017-11-08 13:21:54.2301 [DEBUG] Spawn request. (Objects: 3)
+2017-11-08 13:25:37.6178 [DEBUG] Refresh token (E4JW8sbN3YOIfzkApr8m9RELJehOqOpkeQl6WGnfPOz6N84dBayA2axTzsHJbJxTJadxEcbZUU3foQxAohuZrn1eM0qKIExIT31tJst6qXDbLHgk5WyriKzc59amhhXGLOCokEcLhzuOAom984U3rE1Gsr9KWyjzRytHdXpbiY52774MrPHpiL31LwypFUCLLPtBScnB9iHalWuoyBin7FHeSxfjRzgDxWa2POjmOBTPNj8p5ff3YB4MsbEZ4u6) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2017-11-08 13:33:55.1215 [DEBUG] Disconnecting temporarily to recompile.
+2017-11-08 13:33:55.1220 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:33:55.1345 [INFO] Disconnected from server.
+2017-11-08 13:33:55.1350 [DEBUG] Disconnect. (Duration: 715)
+2017-11-08 13:34:19.8899 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:34:19.9964 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:34:20.0190 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:34:20.3792 [DEBUG] Authenticating with server...
+2017-11-08 13:34:20.5854 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:34:20.5929 [INFO] Connected to server.
+2017-11-08 13:34:20.5929 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:34:20.5929 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:34:20.5929 [DEBUG] Pro License : False
+2017-11-08 13:34:20.5934 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:34:20.5934 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:34:20.5934 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:34:20.5934 [DEBUG] User : 
+2017-11-08 13:34:20.6883 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:34:20.6883 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:34:20.9074 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:34:20.9074 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:34:20.9074 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:34:20.9074 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:34:20.9074 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:34:45.7796 [DEBUG] Spawn request. (Objects: 1)
+2017-11-08 13:34:59.3219 [DEBUG] Spawn request. (Objects: 2)
+2017-11-08 13:35:00.8589 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-11-08 13:35:00.8594 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:35:00.8694 [INFO] Disconnected from server.
+2017-11-08 13:35:00.8694 [DEBUG] Disconnect. (Duration: 787)
+2017-11-08 13:35:00.8864 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2017-11-08 13:35:02.7555 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:35:02.8000 [DEBUG] Play mode: True, sync in play mode: False
+2017-11-08 13:35:02.8930 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:35:02.9136 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:35:03.3147 [DEBUG] Authenticating with server...
+2017-11-08 13:35:03.5386 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:35:03.5431 [INFO] Connected to server.
+2017-11-08 13:35:03.5431 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:35:03.5431 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:35:03.5431 [DEBUG] Pro License : False
+2017-11-08 13:35:03.5431 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:35:03.5436 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:35:03.5436 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:35:03.5436 [DEBUG] User : 
+2017-11-08 13:35:03.5976 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:35:03.5976 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:35:03.6271 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:35:03.6271 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:35:03.6271 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:35:03.6271 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:35:03.6271 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:35:10.7086 [DEBUG] Play mode: False
+2017-11-08 13:35:37.9054 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-11-08 13:35:37.9059 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:35:37.9194 [INFO] Disconnected from server.
+2017-11-08 13:35:37.9194 [DEBUG] Disconnect. (Duration: 0)
+2017-11-08 13:35:37.9354 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2017-11-08 13:35:39.6971 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:35:39.7196 [DEBUG] Play mode: True, sync in play mode: True
+2017-11-08 13:35:39.7946 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:35:39.8086 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:35:40.1658 [DEBUG] Authenticating with server...
+2017-11-08 13:35:40.3739 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:35:40.3879 [INFO] Connected to server.
+2017-11-08 13:35:40.3879 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:35:40.3879 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:35:40.3879 [DEBUG] Pro License : False
+2017-11-08 13:35:40.3884 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:35:40.3884 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:35:40.3884 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:35:40.3884 [DEBUG] User : 
+2017-11-08 13:35:40.4585 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:35:40.4585 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:35:40.4955 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:35:40.4955 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:35:40.4955 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:35:40.4960 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:35:40.4960 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:35:55.4152 [DEBUG] Play mode: False
+2017-11-08 13:36:25.6535 [DEBUG] Spawn request. (Objects: 2)
+2017-11-08 13:38:49.1420 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-11-08 13:38:49.1425 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:38:49.1565 [INFO] Disconnected from server.
+2017-11-08 13:38:49.1565 [DEBUG] Disconnect. (Duration: 146)
+2017-11-08 13:38:49.1741 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2017-11-08 13:38:50.6296 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:38:50.6549 [DEBUG] Play mode: True, sync in play mode: True
+2017-11-08 13:38:50.7290 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:38:50.7465 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:38:51.1335 [DEBUG] Authenticating with server...
+2017-11-08 13:38:51.3578 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:38:51.3745 [INFO] Connected to server.
+2017-11-08 13:38:51.3750 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:38:51.3750 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:38:51.3750 [DEBUG] Pro License : False
+2017-11-08 13:38:51.3750 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:38:51.3750 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:38:51.3755 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:38:51.3755 [DEBUG] User : 
+2017-11-08 13:38:51.4297 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:38:51.4302 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:38:51.4992 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:38:51.4992 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:38:51.4992 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:38:51.4997 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:38:51.4997 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:39:04.6272 [DEBUG] Play mode: False
+2017-11-08 13:39:15.0759 [DEBUG] Spawn request. (Objects: 1)
+2017-11-08 13:39:17.5323 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-11-08 13:39:17.5328 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:39:17.5598 [INFO] Disconnected from server.
+2017-11-08 13:39:17.5598 [DEBUG] Disconnect. (Duration: -14)
+2017-11-08 13:39:17.5748 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2017-11-08 13:39:19.0510 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:39:19.0820 [DEBUG] Play mode: True, sync in play mode: True
+2017-11-08 13:39:19.1546 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:39:19.1686 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:39:19.5246 [DEBUG] Authenticating with server...
+2017-11-08 13:39:19.7294 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:39:19.7495 [INFO] Connected to server.
+2017-11-08 13:39:19.7495 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:39:19.7495 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:39:19.7495 [DEBUG] Pro License : False
+2017-11-08 13:39:19.7500 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:39:19.7500 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:39:19.7500 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:39:19.7500 [DEBUG] User : 
+2017-11-08 13:39:19.8030 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:39:19.8030 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:39:19.8500 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:39:19.8500 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:39:19.8500 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:39:19.8500 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:39:19.8500 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:39:25.1110 [DEBUG] Play mode: False
+2017-11-08 13:41:45.4178 [DEBUG] Disconnecting temporarily to enter play mode.
+2017-11-08 13:41:45.4183 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:41:45.4448 [INFO] Disconnected from server.
+2017-11-08 13:41:45.4448 [DEBUG] Disconnect. (Duration: 112)
+2017-11-08 13:41:45.4638 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2017-11-08 13:41:47.1131 [DEBUG] Scene Fusion version 1.6.0-1
+2017-11-08 13:41:47.1426 [DEBUG] Play mode: True, sync in play mode: True
+2017-11-08 13:41:47.2232 [DEBUG] Connecting to room (48584:SceneFusion:SceneFusion) via TCP at console.kinematicsoup.com:1025
+2017-11-08 13:41:47.2429 [DEBUG] Host connection. (Session: 48584)
+2017-11-08 13:41:47.6281 [DEBUG] Authenticating with server...
+2017-11-08 13:41:47.8318 [DEBUG] Connected to room. (48584:SceneFusion:SceneFusion)
+2017-11-08 13:41:47.8478 [INFO] Connected to server.
+2017-11-08 13:41:47.8478 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2017-11-08 13:41:47.8478 [DEBUG] Unity Version : 2017.1.1f1
+2017-11-08 13:41:47.8483 [DEBUG] Pro License : False
+2017-11-08 13:41:47.8483 [DEBUG] Platform : WindowsEditor
+2017-11-08 13:41:47.8483 [DEBUG] Build Target : StandaloneWindows64
+2017-11-08 13:41:47.8483 [DEBUG] Scene Fusion version : 1.6.0
+2017-11-08 13:41:47.8483 [DEBUG] User : 
+2017-11-08 13:41:47.8858 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2017-11-08 13:41:47.8858 [DEBUG] User Permissions: FFFFFFFF
+2017-11-08 13:41:47.9228 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2017-11-08 13:41:47.9228 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2017-11-08 13:41:47.9228 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2017-11-08 13:41:47.9233 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2017-11-08 13:41:47.9233 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2017-11-08 13:41:59.3301 [DEBUG] Play mode: False
+2017-11-08 13:42:58.3526 [DEBUG] Spawn request. (Objects: 1)
+2017-11-08 13:43:48.2492 [DEBUG] Spawn request. (Objects: 1)
+2017-11-08 13:44:31.5097 [DEBUG] Disconnecting temporarily to recompile.
+2017-11-08 13:44:31.5102 [DEBUG] Disconnecting from room (48584:SceneFusion:SceneFusion)
+2017-11-08 13:44:31.5267 [INFO] Disconnected from server.
+2017-11-08 13:44:31.5267 [DEBUG] Disconnect. (Duration: 124)
+2017-11-08 13:44:31.5663 [ERROR] Error invoking method Resolve: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000eb] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115 
+  at KS.Unity.Editor.ReflectionObject.InstanceInvoke (System.Object instance, System.Object[] args) [0x00000] in <filename unknown>:0 
